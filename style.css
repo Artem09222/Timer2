@@ -1,0 +1,14 @@
+#timer {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#animation {
+    font-size: 1.5em;
+    color: green;
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
